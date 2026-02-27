@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently an engineering student looking for job in IT at IIT kharagpur
+Final year Aerospace engineering student at IIT Kharagpur, looking for a place where I can use and improve my analytical and problem-solving skills. 
 
 
 # 💻 Tech Stack:
